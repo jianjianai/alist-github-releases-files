@@ -3,7 +3,6 @@
   "owner": "jianjianai",
   "name": "alist-github-releases-files",
   "dir": {
-    "原": "test",
-    "test/原": "test.y"
+    "public/原": "yuansheng",
   }
 }
