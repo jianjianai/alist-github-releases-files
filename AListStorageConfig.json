@@ -1,5 +1,5 @@
 {
-  "id":0, 
+  "id":5, 
   "mount_path":"/", 
   "driver":"UrlTree",
   "status":"work",
@@ -8,8 +8,8 @@
   "order_by":"",
   "order_direction":"",
   "extract_folder":"",
-  "web_proxy":false,
-  "down_proxy_url":"",
+  "web_proxy":true,
+  "down_proxy_url":"https://alist.jjaw.cn/proxy/3c8322fe",
   "addition": {
     "head_size":false
   }
