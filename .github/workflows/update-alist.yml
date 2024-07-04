@@ -16,4 +16,4 @@ jobs:
         with:
           node-version: 20
       - run: npm install
-      - run: node index.mjs ${{ env.ALISTTOKEN }}
+      - run: node index.mjs ${{ vars.ALISTTOKEN }}
