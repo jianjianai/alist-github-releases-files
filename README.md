@@ -52,20 +52,14 @@ https://alist.nn.ci/zh/guide/api/admin/storage.html#post-%E6%9B%B4%E6%96%B0%E5%A
 {
   "id":0, //驱动id
   "mount_path":"/", //挂载目录
-  "order":0,
   "driver":"UrlTree",
-  "cache_expiration":0,
   "status":"work",
-  "remark":"",
-  "modified":"",
-  "disabled":false,
+  "remark":"", //备注名称
   "enable_sign":false,
   "order_by":"",
   "order_direction":"",
   "extract_folder":"",
-  "web_proxy":true,
-  "webdav_policy":"302_redirect",
-  "proxy_range":false,
+  "web_proxy":false, //是否开启下载代理
   "down_proxy_url":"", //下载代理url
   "addition": {
     "head_size":false

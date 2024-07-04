@@ -1,20 +1,14 @@
 {
   "id":3,
   "mount_path":"/",
-  "order":0,
   "driver":"UrlTree",
-  "cache_expiration":0,
   "status":"work",
-  "remark":"",
-  "modified":"",
-  "disabled":false,
+  "remark":"", 
   "enable_sign":false,
   "order_by":"",
   "order_direction":"",
   "extract_folder":"",
-  "web_proxy":true,
-  "webdav_policy":"302_redirect",
-  "proxy_range":false,
+  "web_proxy":false,
   "down_proxy_url":"",
   "addition": {
     "head_size":false
