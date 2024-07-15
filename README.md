@@ -1,3 +1,7 @@
+> ### 更好用的项目，也是差不多的功能
+> Flist - 将 GitHub Releases 以类似网盘的形式展示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
+> https://github.com/jianjianai/FList
+
 # alist-github-releases-files
 当 GitHub Releases 更新时，自动获取 Github Releases 中的文件，生成地址树并更新 AList 驱动。只需Fork本仓库后简单设置就可以实现此功能了。
 
